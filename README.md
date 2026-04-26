@@ -4,6 +4,14 @@ A collection of high-level system design documents covering real-world distribut
 
 ---
 
+## Reference
+
+| Topic | Description |
+|-------|-------------|
+| [System Design Trade-offs](systemDesign/tradeoffs.md) | SQL vs NoSQL, vertical vs horizontal scaling, consistency vs availability, caching, fan-out, and 15 other core trade-offs |
+
+---
+
 ## Designs
 
 | System | Description |
